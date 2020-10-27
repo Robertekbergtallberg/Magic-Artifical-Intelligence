@@ -54,3 +54,4 @@ How could your project grow and become something even more? What kind of skills,
 ## Acknowledgments
 
 https://magic.wizards.com/en/mtgarena
+
