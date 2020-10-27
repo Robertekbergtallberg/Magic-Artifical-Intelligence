@@ -4,22 +4,24 @@ Final project for the Building AI course
 
 ## Summary
 
-Magic: The Gathering has been distributed in several products throughout its history. In a typical year, one core set and three expansions are printed, containing the majority of the new cards.
-
-With this project i want to create an AI that can play the game and build it's own deck with the goal to win.
-
+This project is an idea of creating an AI playing Magic the Gathering. Eventually it will also be able to build it's own deck with the goals of winning as many games as possible versus real players.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+### About the game
 
-This idea doesn't really solve any problem. It can help developers find cards that will be to overpowered before they are released. It can help players develop their skills in the game. an AI can find things player never thought about, we can see that in the OpenAI in Dota 2 and starcraft 2.
+Magic: The Gathering has been distributed in several products throughout its history. In a typical year, one core set and three expansions are printed, containing the majority of the new cards.
+
+Wizards of the Coast also publishes digital versions of new sets within current video games. Magic Arena and Magic Online are digital versions of the trading card game, available on Windows. Arena is the newer program and has a stronger focus on Standard while Online is older and covers the Modern area of play. 
+
+(source: https://mtg.gamepedia.com/Portal:Products)
+
+There will probably be many problems in doing this, so i will not list every problem that comes to my mind. 
+
+This project can help developers gain insight in how they can balance cards, and help players gain insight both in deck building and play.
 
 Problems the project might face:
-* Magic The Gathering has alot of rules so applying all of them might be very difficult, so applying the most common ones and then let the AI learn the rest is my plan, not sure if this will be a problem thought.
-* There is a lot of cards in magic so how do you let the AI learn the cards? will it learn it by playing or will you put all the cards in it's memory?
-* 
-* etc.
+* Wizard of the Coast is the game developers will this project be able to continue without their support?
 
 
 ## How is it used?
