@@ -21,7 +21,7 @@ Wizards of the Coast also publishes digital versions of new sets within current 
 There might not be an direct problem it will solve, BUT it might help developers adjust cards before they get realeased. This project can help developers gain insight in how they can balance cards, and help players gain insight both in deck building and play.
 
 The main problem the project might face:
-* Wizard of the Coast is the game developers will this project be able to continue without their support?
+* is if the developers of the game will support this project or not
 
 ## How is it used?
 
