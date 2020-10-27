@@ -8,7 +8,7 @@ This project is an idea of creating an AI playing Magic the Gathering. Eventuall
 
 ## Background
 
-### About the game
+#### About the game
 
 Magic: The Gathering has been distributed in several products throughout its history. In a typical year, one core set and three expansions are printed, containing the majority of the new cards.
 
@@ -16,13 +16,12 @@ Wizards of the Coast also publishes digital versions of new sets within current 
 
 (source: https://mtg.gamepedia.com/Portal:Products)
 
-There will probably be many problems in doing this, so i will not list every problem that comes to my mind. 
+#### What is the problem my idea will solve?
 
-This project can help developers gain insight in how they can balance cards, and help players gain insight both in deck building and play.
+There might not be an direct problem it will solve, BUT it might help developers adjust cards before they get realeased. This project can help developers gain insight in how they can balance cards, and help players gain insight both in deck building and play.
 
-Problems the project might face:
+The main problem the project might face:
 * Wizard of the Coast is the game developers will this project be able to continue without their support?
-
 
 ## How is it used?
 
@@ -48,7 +47,6 @@ It's important that the AI isn't used by players to rank up in the ladder or in 
 
 * If this project is going to grow it needs permission and support from the developers.
 * It needs developers who can code in python and/or who plays the game
-* 
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
 
